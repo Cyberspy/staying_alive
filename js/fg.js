@@ -28,7 +28,7 @@
  * requested from browser (not from ajax call)
  * Script will query background page to see if request
  * uri matches any of the rules for foreground request
- * If math then will init the countdown to showing
+ * If match then will init the countdown to showing
  * alert div
  * Alert div shows live 30 seconds countdown
  * to page reload
